@@ -1,0 +1,20 @@
+{
+    "name": "my-site",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "SKIP_CACHE=1 vuepress dev .",
+        "build": "vuepress build ."
+    },
+    "devDependencies": {
+        "markdown-it": "^8.4.2",
+        "markdown-it-anchor": "^5.2.4",
+        "markdown-it-html": "^1.0.0",
+        "markdown-it-katex": "^2.0.3",
+        "markdown-it-table-of-contents": "^0.4.4",
+        "markdown-it-toc": "^1.1.0",
+        "vuepress": "^1.0.1",
+        "vuepress-plugin-yuque": "^0.6.0"
+    }
+}
