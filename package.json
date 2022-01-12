@@ -8,7 +8,7 @@
         "build": "vuepress build ."
     },
     "devDependencies": {
-        "markdown-it": "^8.4.2",
+        "markdown-it": "^12.3.2",
         "markdown-it-anchor": "^5.2.4",
         "markdown-it-html": "^1.0.0",
         "markdown-it-katex": "^2.0.3",
